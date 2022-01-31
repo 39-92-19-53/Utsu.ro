@@ -1,5 +1,5 @@
 ## Yuki
 
-Webpage(preparing): <a href="https://yuki.utsu.ro">yuki.utsu.ro</a>
+Webpage: <a href="https://yuki.utsu.ro">yuki.utsu.ro</a>
 
 E-mail: Yuki[at]utsu.ro
